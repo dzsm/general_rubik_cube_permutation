@@ -11,3 +11,4 @@ General Rubik's Cube permutation generator and visualisation module
           6   7                                   1   1                                   D   D                 
 ```
 
+![2x2x2 Cube](2x2x2.png)
