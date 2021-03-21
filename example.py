@@ -23,6 +23,7 @@ text = '''
 c.move('U F')
 fig = c.view()
 plt.show()
+fig.savefig('2x2x2.png')
 
 # State indices, face indices, orientation [U]P [D]OWN [F]RONT [B]ACK [L]EFT [R]IGHT:
 #           0   1                                   0   0                                   U   U
